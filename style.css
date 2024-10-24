@@ -3653,8 +3653,8 @@ blockquote:after {
     width: 100%;
 }
 .ritekhela-footer-one {
-    background: url(images/footer-lodyas.png);
-    background-color: #3e454c;
+    /* background: url(images/footer-lodyas.png); */
+    background-color: #250561;
     padding: 70px 0px 0px 0px;
 }
 .ritekhela-footer-widget .widget {
@@ -3741,7 +3741,7 @@ blockquote:after {
     width: 40px;
     height: 38px;
     text-align: center;
-    color: #a50202;
+    color: #022da5;
     font-size: 18px;
     padding-top: 11px;
     position: relative;
@@ -3764,7 +3764,7 @@ blockquote:after {
     float: left;
     width: 31px;
     height: 31px;
-    background-color: #ffdc11;
+    background-color: rgb(194, 166, 9);
     color: #333;
     margin: 0px 10px 20px 0px;
     font-size: 16px;
@@ -3922,7 +3922,7 @@ blockquote:after {
          -o-transition: all 0.4s ease-in-out;
             transition: all 0.4s ease-in-out;
 }
-.widget_nav_links ul li:hover a { color: #ffdc11;}
+.widget_nav_links ul li:hover a { color: #280247;}
 .widget_nav_links ul li a i {
     float: left;
     margin: 8px 12px 0px 0px;

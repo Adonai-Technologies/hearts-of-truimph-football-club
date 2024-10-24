@@ -270,7 +270,7 @@ address                         { font-style: italic; }
     width: 100%;
 }
 .ritekhela-header-one {
-    background-color: #3e454c; }
+    background-color: #270547; }
 /* TopStrip */
 .ritekhela-topstrip {
     padding: 7px 0px;
@@ -406,7 +406,7 @@ address                         { font-style: italic; }
     position: absolute;
     right: 0px;
     bottom: 0px;
-    border-bottom: 100px solid #ffdc11;
+    border-bottom: 100px solid #1d0752;
     border-left: 960px solid transparent;
     z-index: 999;
     opacity: 0.70;
@@ -427,7 +427,7 @@ address                         { font-style: italic; }
     top: 0px;
     width: 100%;
     height: 100%;
-    background-color: #333;
+    background-color:none;
     opacity: 0.85;
     z-index: 0;
 }

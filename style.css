@@ -595,7 +595,7 @@ address                         { font-style: italic; }
     top: -15px;
     width: 100%;
     height: 15px;
-    background-color: #3e454c;
+    background-color: #270547;
     border-radius: 100% 100% 0px 0px;
 }
 .ritekhela-fixture-box {
@@ -1219,7 +1219,7 @@ address                         { font-style: italic; }
     width: 100%;
     background: url(images/match-result-bg.png);
     background-repeat: no-repeat;
-    background-color: #292c31;
+    background-color: #270547;
     margin-bottom: 40px;
 }
 .ritekhela-match-title {
@@ -1258,7 +1258,7 @@ address                         { font-style: italic; }
 .ritekhela-match-result ul li p {
     font-size: 28px;
     margin-bottom: 0px;
-    color: #292c31;
+    color: #270547;
     font-weight: bold;
     position: relative;
 }
@@ -1312,7 +1312,7 @@ address                         { font-style: italic; }
     top: 20%;
     width: 40px;
     height: 40px;
-    color: #333;
+    color: #270547;
     text-align: center;
     font-size: 16px;
     border-radius: 4px;
@@ -1464,7 +1464,7 @@ address                         { font-style: italic; }
     position: absolute;
     left: 0px;
     bottom: -20px;
-    border-top: 20px solid #3e454c;
+    border-top: 20px solid #270547;
     border-right: 350px solid transparent;
 }
 .widget_newsletter form label {
@@ -1619,7 +1619,7 @@ address                         { font-style: italic; }
     line-height: 1;
 }
 .widget_next_match ul li small {
-    color: #666666;
+    color: #270547;
     font-size: 10px;
 }
 .widget_next_match_option {
@@ -1629,7 +1629,7 @@ address                         { font-style: italic; }
     position: relative;
     margin-top: 21px;
 }
-.widget_next_match ul li .widget_next_match_option h6,.widget_next_match ul li .widget_next_match_option small { color: #444; }
+.widget_next_match ul li .widget_next_match_option h6,.widget_next_match ul li .widget_next_match_option small { color: #270547; }
 .widget_match_countdown {
     text-align: center; }
 .widget_match_countdown h6 {
@@ -1716,7 +1716,7 @@ address                         { font-style: italic; }
 .ranking-content-table li {
     display: table-cell;
     list-style: none;
-    color: #292c31;
+    color: #270547;
     vertical-align: middle;
     padding: 16px 13px 12px 13px;
 }
@@ -1741,14 +1741,14 @@ address                         { font-style: italic; }
     padding: 16px 7px 12px 13px;
 }
 .ranking-content-table li:nth-child(2) { width: 47%; }
-.ranking-content-table:nth-child(even) { background-color: #3e454c; }
+.ranking-content-table:nth-child(even) { background-color: #270547; }
 .ranking-content-table:nth-child(even) li,.ranking-content-table:nth-child(even) li small { color: #ffffff; }
 /* Latest Result List */
 .ritekhela-latest-result-list {
     float: left;
     width: 100%;
     margin: 150px 0px 0px 0px;
-    border-bottom: 1px solid rgba(255,255,255,0.10);
+    border-bottom: 1px solid #270547;
 }
 .ritekhela-latest-result-list ul li {
     float: left;
@@ -1813,7 +1813,7 @@ address                         { font-style: italic; }
     position: absolute;
     left: 50%;
     top: -116px;
-    color: #444;
+    color: #270547;
     font-size: 90px;
     font-weight: bold;
     margin-left: -55px;
@@ -1913,7 +1913,7 @@ address                         { font-style: italic; }
     font-size: 50px;
     line-height: 1;
     font-weight: bold;
-    color: #444;
+    color: #270547;
 }
 .ritekhela-countdown-nextmatch .is-countdown .countdown-period {
     font-size: 18px;
@@ -2063,7 +2063,7 @@ li:hover .ritekhela-blog-view3-text-btn {
     top: 30%;
     width: 50px;
     height: 50px;
-    color: #444;
+    color: #270547;
     font-size: 19px;
     text-align: center;
     padding-top: 15px;
@@ -2254,7 +2254,7 @@ li:hover .ritekhela-blog-view3-text-btn {
     line-height: 30px;
 }
 .ritekhela-testimonials-view1 figure {
-    background-color: #3e454c;
+    background-color: #270547;
     padding: 20px 30px;
     border-bottom: 5px solid;
 }
@@ -2263,7 +2263,7 @@ li:hover .ritekhela-blog-view3-text-btn {
     position: absolute;
     right: 0px;
     top: -15px;
-    border-bottom: 15px solid #3e454c;
+    border-bottom: 15px solid #270547;
     border-left: 352px solid transparent;
 }
 .ritekhela-testimonials-view1 figure img {
@@ -2400,7 +2400,7 @@ li:hover .ritekhela-blog-view3-text-btn {
 .ritekhela-loginbox-social ul li.linkedin a {
     background-color: #5182aa; }
 .ritekhela-loginbox-social ul li.dribbble a {
-    background-color: #ea4c89; }
+    background-color: #270547; }
 /* CartBox */
 .ritekhela-cart-box {
     position: absolute;
@@ -2585,7 +2585,7 @@ li:hover .ritekhela-blog-view3-text-btn {
 .ritekhela-fixture-list-wrap {
     float: left;
     width: 100%;
-    background-color: #3e454c;
+    background-color: #270547;
     position: relative;
 }
 .ritekhela-fixture-list figure,
@@ -2744,7 +2744,7 @@ a.ritekhela-fixture-list-thumb ~ figcaption {
     width: 100%;
     background-color: #ffffff;
 }
-.ritekhela-matches-list ul li:nth-child(odd) { background-color: #3e454c; }
+.ritekhela-matches-list ul li:nth-child(odd) { background-color: #270547; }
 .ritekhela-matches-list ul li:first-child .ritekhela-cell {
     border-top: 1px solid #f3f3f3;
 }
@@ -2869,7 +2869,7 @@ ul.ritekhela-table-list li .ritekhela-cell:nth-child(2) { width: 50%; }
 }
 .ritekhela-modren-team-one {
     float: left;
-    background-color: #3e454c;
+    background-color: #270547;
     text-align: center;
     padding: 40px 8px 40px 5px;
     position: relative;
@@ -2952,7 +2952,7 @@ ul.ritekhela-table-list li .ritekhela-cell:nth-child(2) { width: 50%; }
     margin: -3px 0px 0px;
     padding: 0px 0px 0px 9px;
 }
-.ritekhela-modren-match-text .ticket-buy-btn:hover { background-color: #27282a; color: #fff;}
+.ritekhela-modren-match-text .ticket-buy-btn:hover { background-color: #270547; color: #fff;}
 .ritekhela-modren-match-text h5 {
     font-weight: bold;
     margin: 0px;
@@ -2968,7 +2968,7 @@ ul.ritekhela-table-list li .ritekhela-cell:nth-child(2) { width: 50%; }
     font-size: 24px;
     display: inline-block;
     font-weight: bold;
-    background-color: #3e454c;
+    background-color: #270547;
     color: #fff;
     padding: 8px 29px;
     margin: 0px 0px 14px;
@@ -3003,7 +3003,7 @@ ul.ritekhela-table-list li .ritekhela-cell:nth-child(2) { width: 50%; }
 }
 .ritekhela-modren-team-two {
     float: right;
-    background-color: #3e454c;
+    background-color: #270547;
     text-align: center;
     padding: 40px 5px 40px 6px;
     position: relative;
@@ -3331,7 +3331,7 @@ blockquote:after {
 }
 #ritekhela-comments ul li figure ~ .ritekhela-text {margin: 0px 0px 0px 65px;}
 #ritekhela-comments ul li .ritekhela-text {
-    background-color: #3e454c;
+    background-color: #270547;
     padding: 22px 30px 18px 30px;
     position: relative;
     box-shadow: 2px 2px 2px 0px #ddd;

@@ -680,7 +680,7 @@ address                         { font-style: italic; }
     position: absolute;
     left: 0px;
     top: -7px;
-    border-top: 60px solid #ffdc11;
+    border-top: 60px solid goldenrod;
     border-right: 60px solid transparent;
 }
 .ritekhela-fancy-title-two h2 {
@@ -1410,7 +1410,7 @@ address                         { font-style: italic; }
     font-size: 36px;
     font-style: italic;
     font-weight: bold;
-    color: #85711c;
+    color: goldenrod;
     line-height: 1;
     text-align: center;
     padding: 28px 5px 5px 5px;
@@ -1490,14 +1490,14 @@ address                         { font-style: italic; }
 }
 .widget_newsletter input[type='submit'] {
     float: left;
-    color: #ffdc11;
+    color: goldenrod;
     font-size: 13px;
     font-weight: 600;
     border: none;
     padding: 8px 25px;
     text-transform: uppercase;
-    border-left: 3px solid #ffdc11;
-    border-right: 3px solid #ffdc11;
+    border-left: 3px solid goldenrod;
+    border-right: 3px solid goldenrod;
     background-color: transparent;
     border-radius: 80px;
     margin-top: 10px;
@@ -1515,7 +1515,7 @@ address                         { font-style: italic; }
 .widget_social_media ul li a {
     float: left;
     width: 100%;
-    background-color: #ff680d;
+    background-color: goldenrod;
     text-align: center;
     padding: 16px 10px;
     position: relative;
@@ -2507,7 +2507,7 @@ li:hover .ritekhela-blog-view3-text-btn {
 }
 .ritekhela-rating-box:before {
     content: "\f005 \f005 \f005 \f005 \f005";
-    color: #ffb400;
+    color: goldenrod;
 }
 .ritekhela-rating-box {
     height: 16px;
@@ -2882,7 +2882,7 @@ ul.ritekhela-table-list li .ritekhela-cell:nth-child(2) { width: 50%; }
     right: 0px;
     width: 0;
     height: 0;
-    border-top: 70px solid #ffdc11;
+    border-top: 70px solid goldenrod;
     border-left: 50px solid transparent;
 }
 .ritekhela-modren-team-one:after {
@@ -3016,7 +3016,7 @@ ul.ritekhela-table-list li .ritekhela-cell:nth-child(2) { width: 50%; }
     left: 0px;
     width: 0;
     height: 0;
-    border-top: 70px solid #ffdc11;
+    border-top: 70px solid goldenrod;
     border-right: 50px solid transparent;
 }
 .ritekhela-modren-team-two:after {
@@ -3026,7 +3026,7 @@ ul.ritekhela-table-list li .ritekhela-cell:nth-child(2) { width: 50%; }
     left: 0px;
     width: 0;
     height: 0;
-    border-bottom: 70px solid #ffdc11;
+    border-bottom: 70px solid goldenrod;
     border-right: 50px solid transparent;
 }
 .ritekhela-modren-team-two > span {
@@ -3453,13 +3453,13 @@ blockquote:after {
     margin-bottom: 30px; }
 .ritekhela-shop figure {
     margin-bottom: 0px;
-    border-left: 10px solid #ffdc11;
+    border-left: 10px solid goldenrod;
 }
 .ritekhela-shop-grid-text {
     position: relative;
     background-color: #3e454c;
     padding: 30px 23px 30px 23px;
-    border-left: 10px solid #ffdc11;
+    border-left: 10px solid goldenrod;
 }
 .ritekhela-shop-grid-text h2 {
     text-transform: uppercase;
@@ -3683,7 +3683,7 @@ blockquote:after {
     position: absolute;
     left: 0px;
     bottom: -10px;
-    border-top: 10px solid #ffdc11;
+    border-top: 10px solid goldenrod;
     border-right: 40px solid transparent;
 }
 .widget_about_info ul li i {
@@ -3764,7 +3764,7 @@ blockquote:after {
     float: left;
     width: 31px;
     height: 31px;
-    background-color: rgb(194, 166, 9);
+    background-color: goldenrod;
     color: #333;
     margin: 0px 10px 20px 0px;
     font-size: 16px;

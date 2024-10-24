@@ -2634,8 +2634,8 @@ fieldset:disabled a.btn {
 
 .btn-warning {
   color: #212529;
-  background-color: #ffc107;
-  border-color: #ffc107;
+  background-color: goldenrod;
+  border-color: goldenrod;
 }
 
 .btn-warning:hover {

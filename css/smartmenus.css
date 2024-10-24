@@ -102,7 +102,7 @@
 }
 
 .sm-blue a.current {
-    background: #ffdc11;
+    background: goldenrod;
     color: #27282a;
 }
 
@@ -293,10 +293,10 @@
     .sm-blue a:active,
     .sm-blue a.highlighted,
     .sm-blue > li.active > a {
-        color: #ffdc11;
+        color: goldenrod;
     }
     .sm-blue a.current {
-        color: #ffdc11;
+        color: goldenrod;
     }
     .sm-blue a.disabled {
         background: transparent;

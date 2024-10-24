@@ -646,7 +646,7 @@ address                         { font-style: italic; }
     top: 50%;
     width: 40px;
     height: 40px;
-    background-color: #3e454c;
+    background-color: #270547;
     color: #ffffff;
     text-align: center;
     border-radius: 5px;
@@ -3673,7 +3673,7 @@ blockquote:after {
 }
 .widget_about_info ul li {
     list-style: none;
-    color: #444;
+    color: #270547;
     margin-bottom: 22px;
     line-height: 2.7;
     position: relative;

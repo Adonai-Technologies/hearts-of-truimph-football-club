@@ -416,7 +416,7 @@ address                         { font-style: italic; }
     position: absolute;
     left: 0px;
     bottom: 0px;
-    border-bottom: 100px solid #ffdc11;
+    border-bottom: 100px solid goldenrod;
     border-right: 960px solid transparent;
     z-index: 999;
     opacity: 0.70;
